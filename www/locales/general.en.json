@@ -1,0 +1,16 @@
+{
+    "buttons":
+    {
+        "language": "Language"
+    },
+    "messages":
+    {
+        "success": "Current language: __language__ (__local__) [__code__]",
+        "error": "Error getting language!"
+    },
+    "texts":
+    {
+        "connectDevice": "Connecting to device",
+        "deviceReady": "Device is Ready"
+    }
+}
